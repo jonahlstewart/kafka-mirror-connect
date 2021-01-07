@@ -1,6 +1,6 @@
 {
   "name": "kafka-mirror-connect",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Connect Kafka application to KafkaMirror. Built on top of KafkaJS.",
   "main": "index.js",
   "scripts": {
